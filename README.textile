@@ -1,3 +1,5 @@
+!https://www.codeship.io/projects/434bd3e0-e5bb-0130-3550-5204d4caf349/status(Codeship status)!
+
 h1. !http://railsapps.github.io/images/rails-36x36.jpg(Rails Application for Devise with RSpec and Cucumber)! Rails App for Devise with RSpec and Cucumber
 
 Rails 3.2 example application shows how to use "Devise":http://github.com/plataformatec/devise with "RSpec":http://rspec.info/ and "Cucumber":http://cukes.info/.
