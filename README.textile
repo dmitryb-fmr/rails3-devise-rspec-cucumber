@@ -1,4 +1,5 @@
 !https://www.codeship.io/projects/434bd3e0-e5bb-0130-3550-5204d4caf349/status(Codeship status)!
+"!https://travis-ci.org/dmitryb-fmr/rails3-devise-rspec-cucumber.png!":https://travis-ci.org/dmitryb-fmr/rails3-devise-rspec-cucumber
 
 h1. !http://railsapps.github.io/images/rails-36x36.jpg(Rails Application for Devise with RSpec and Cucumber)! Rails App for Devise with RSpec and Cucumber
 
